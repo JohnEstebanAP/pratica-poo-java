@@ -1,4 +1,4 @@
-package org.sofka.software;
+package org.sofka.software.utilities.interfaces;
 
 public interface Idog {
 
